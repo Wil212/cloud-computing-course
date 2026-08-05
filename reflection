@@ -1,1 +1,24 @@
+Write a 250–350 word reflection paper saved as reflections/cloud-concepts-reflection.md in your repository. Use the guide below to structure your work:
 
+Guide Questions
+
+1. Cloud Services I Use: List at least 3 cloud services or applications you use regularly (e.g. Google Drive, Netflix, Messenger, Canva, GCash).
+-Cloud computing is part of my everyday life because many of the applications I use rely on cloud technology. Three cloud-based applications I regularly use are Messenger, Facebook, and Google Chrome. I use Messenger to 
+communicate with my family, friends, and classmates. Facebook helps me stay updated with news, announcements, and posts from people I know. Google Chrome allows me to browse the internet while syncing my bookmarks, 
+passwords, browsing history, and settings across different devices using my Google account.
+
+2. Identify the Models: For each service you listed, identify its service model (IaaS / PaaS / SaaS) and deployment model (Public / Private / Hybrid / Community). Briefly explain why you chose that classification.
+-Messenger is classified as Software as a Service (SaaS) because it provides messaging and communication services through the internet without requiring users to manage any hardware or software. Its deployment model is 
+Public Cloud because it is available to anyone with a Meta account.
+
+-Facebook is also a Software as a Service (SaaS) application because it delivers social networking features directly through a web browser or mobile app. Its deployment model is Public Cloud since it is accessible to 
+millions of users worldwide over the internet.
+
+-Google Chrome can also be considered Software as a Service (SaaS) in the context of its cloud-based features, such as syncing bookmarks, passwords, extensions, and browsing history through a Google account. 
+Its deployment model is Public Cloud because these cloud services are available to any user with internet access and a Google account.
+
+3. Git & GitHub for Cloud Projects: Explain why version control is critical when working with cloud infrastructure. How does GitHub help teams collaborate, track changes, and prevent errors when managing cloud resources?
+- Version control is critical when working with cloud infrastructure because configuration files, application code, and deployment scripts are updated regularly. Without version control, it is easy to lose previous work, 
+overwrite changes, or introduce errors that are difficult to fix. Git records every change made to a project, making it possible to review history or restore earlier versions when needed. GitHub further improves teamwork 
+by providing a central repository where developers can collaborate using branches, pull requests, code reviews, and commit history. These features help teams track changes, prevent conflicts, reduce errors, and ensure that 
+cloud resources are managed in a reliable and organized manner.
