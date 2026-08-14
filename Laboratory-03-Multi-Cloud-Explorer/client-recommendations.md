@@ -39,3 +39,18 @@ Services:
 Amazon EC2
 Amazon S3
 Amazon EC2 Auto Scaling
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+checkpoint 6
+Multi-Cloud Decision Matrix
+
+Startup Company: The recommended platform is Google Cloud Platform (GCP) because it provides scalable services that can support a startup as it grows. GCP also offers managed services that can help reduce infrastructure management and operational costs.
+
+Enterprise Organization: The recommended platform is Amazon Web Services (AWS) because it offers a broad range of cloud services and mature infrastructure for large organizations. AWS can support complex enterprise workloads involving computing, storage, databases, networking, and security.
+
+Microsoft Environment: The recommended platform is Microsoft Azure because it integrates well with Microsoft technologies such as Windows Server, Microsoft 365, and Microsoft Entra ID. This makes it easier for organizations already using Microsoft's ecosystem to migrate and manage their cloud resources.
+
+AI / Machine Learning: The recommended platform is Google Cloud Platform (GCP) because Google provides strong artificial intelligence and machine-learning capabilities. Services such as Vertex AI and Google Compute Engine can support AI development and high-performance computing workloads.
+
+Kubernetes Deployment: The recommended platform is Google Cloud Platform (GCP) because Google originally developed Kubernetes and provides Google Kubernetes Engine (GKE). GKE provides managed Kubernetes capabilities that make it easier to deploy, manage, and scale containerized applications.
+
+Global Web Application: The recommended platform is Amazon Web Services (AWS) because it has a large global infrastructure and provides services designed for highly available and scalable web applications. AWS services such as Amazon EC2, Amazon S3, and Auto Scaling can help applications handle users and traffic from different parts of the world.
