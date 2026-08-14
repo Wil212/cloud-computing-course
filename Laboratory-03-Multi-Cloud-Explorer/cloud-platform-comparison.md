@@ -21,3 +21,9 @@ Google Cloud Platform (GCP) is particularly strong in artificial intelligence, m
 I would personally choose Google Cloud Platform (GCP) because of its strong AI, machine learning, data analytics, and Kubernetes capabilities. I also think it would be a good choice for developing modern, scalable, and cloud-native applications.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Checkpoint 5
+Match the Cloud Services
+-For Virtual Machine services, AWS provides Amazon EC2, Azure provides Azure Virtual Machines, and GCP provides Google Compute Engine.
+-For Object Storage, AWS uses Amazon S3, Azure uses Azure Blob Storage, and GCP uses Google Cloud Storage.
+-For Identity Management, AWS provides AWS IAM, Azure provides Microsoft Entra ID, and GCP provides Google Cloud IAM.
+-For SQL Database services, AWS provides Amazon RDS, Azure provides Azure SQL Database, and GCP provides Cloud SQL.
+-For Kubernetes, AWS provides Amazon EKS (Elastic Kubernetes Service), Azure provides Azure Kubernetes Service (AKS), and GCP provides Google Kubernetes Engine (GKE).
