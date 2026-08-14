@@ -19,3 +19,5 @@ Google Cloud Platform (GCP) is particularly strong in artificial intelligence, m
 
 4. Which cloud platform would you personally choose and why?
 I would personally choose Google Cloud Platform (GCP) because of its strong AI, machine learning, data analytics, and Kubernetes capabilities. I also think it would be a good choice for developing modern, scalable, and cloud-native applications.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Checkpoint 5
